@@ -1,0 +1,10 @@
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\PgpHelper.exe.config
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\PgpHelper.exe
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\PgpHelper.pdb
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\BouncyCastle.Crypto.dll
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\CompliaShield.Sdk.Cryptography.dll
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\Newtonsoft.Json.dll
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\bin\Release\Newtonsoft.Json.xml
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\obj\Release\CompliaShield.DataExchange.PgpHelper.csprojResolveAssemblyReference.cache
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\obj\Release\PgpHelper.exe
+C:\_Git\compliashieldbase-instances\CompliaShield.DataExchange\CompliaShield.DataExchange.PgpHelper\obj\Release\PgpHelper.pdb
